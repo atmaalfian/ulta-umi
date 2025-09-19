@@ -387,7 +387,7 @@ video {
 
 /* Styling untuk gambar */
 img.custom-img {
-  max-width: 30%;   /* biar nggak melebihi layar */
+  max-width: 20%;   /* biar nggak melebihi layar */
   height: auto;     /* proporsional */
   border-radius: 14px; /* biar rapi */
   margin: 20px auto;
